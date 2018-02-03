@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Assignment_1_admur13</string>
+    <string name="accelerometerInstruction_text">Shake to change color</string>
+    <string name="button_accelerometer">Accelerometer</string>
+    <string name="app_information">Hello, here are a couple of sensors!</string>
+    <string name="button_compass">Compass</string>
+    <string name="compass_heading">Heading: 0.0</string>
+    <string name="button_sensor_information">List of Sensors</string>
+    <string name="textView_sensors">Sensors</string>
+    <string name="button_GetLocation">Get Location</string>
+    <string name="button_locationUpdateStart">Start Location Updates</string>
+    <string name="textview_location">Current location</string>
+    <string name="textview_coordinates">0, 0</string>
+    <string name="button_locationTracker">Location Tracker</string>
+    <string name="textview_latitude">Latitude:</string>
+    <string name="textview_longitude">Longitude:</string>
+    <string name="textview_accelerometer_XYZ">X:      Y:     Z:</string>
+</resources>
